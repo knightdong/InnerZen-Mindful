@@ -1,0 +1,24 @@
+"/Users/taodong/Desktop/ZenInAffirmations/Pods/Alamofire/Source/Core/Session.swift":
+  swift-dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Session.swiftdeps"
+  dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Session.d"
+  const-values: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Session.swiftconstvalues"
+  object: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Session.o"
+  diagnostics: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Session.dia"
+"/Users/taodong/Desktop/ZenInAffirmations/Pods/Alamofire/Source/Features/ServerTrustEvaluation.swift":
+  diagnostics: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ServerTrustEvaluation.dia"
+  dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ServerTrustEvaluation.d"
+  const-values: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ServerTrustEvaluation.swiftconstvalues"
+  swift-dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ServerTrustEvaluation.swiftdeps"
+  object: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ServerTrustEvaluation.o"
+"/Users/taodong/Desktop/ZenInAffirmations/Pods/Alamofire/Source/Core/SessionDelegate.swift":
+  const-values: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/SessionDelegate.swiftconstvalues"
+  dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/SessionDelegate.d"
+  object: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/SessionDelegate.o"
+  swift-dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/SessionDelegate.swiftdeps"
+  diagnostics: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/SessionDelegate.dia"
+"/Users/taodong/Desktop/ZenInAffirmations/Pods/Alamofire/Source/Features/RetryPolicy.swift":
+  const-values: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RetryPolicy.swiftconstvalues"
+  swift-dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RetryPolicy.swiftdeps"
+  diagnostics: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RetryPolicy.dia"
+  dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RetryPolicy.d"
+  object: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RetryPolicy.o"

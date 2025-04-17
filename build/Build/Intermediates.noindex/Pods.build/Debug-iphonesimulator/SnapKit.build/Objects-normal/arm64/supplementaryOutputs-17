@@ -1,0 +1,18 @@
+"/Users/taodong/Desktop/ZenInAffirmations/Pods/SnapKit/Sources/ConstraintRelation.swift":
+  swift-dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintRelation.swiftdeps"
+  diagnostics: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintRelation.dia"
+  object: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintRelation.o"
+  const-values: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintRelation.swiftconstvalues"
+  dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintRelation.d"
+"/Users/taodong/Desktop/ZenInAffirmations/Pods/SnapKit/Sources/ConstraintView.swift":
+  const-values: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView.swiftconstvalues"
+  dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView.d"
+  diagnostics: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView.dia"
+  object: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView.o"
+  swift-dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView.swiftdeps"
+"/Users/taodong/Desktop/ZenInAffirmations/Pods/SnapKit/Sources/ConstraintView+Extensions.swift":
+  swift-dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView+Extensions.swiftdeps"
+  diagnostics: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView+Extensions.dia"
+  dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView+Extensions.d"
+  object: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView+Extensions.o"
+  const-values: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView+Extensions.swiftconstvalues"

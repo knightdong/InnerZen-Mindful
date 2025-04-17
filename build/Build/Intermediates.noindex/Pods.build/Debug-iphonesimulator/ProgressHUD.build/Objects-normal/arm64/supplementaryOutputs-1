@@ -1,0 +1,18 @@
+"/Users/taodong/Desktop/ZenInAffirmations/Pods/ProgressHUD/ProgressHUD/Sources/Animations/ProgressHUD+ActivityIndicator.swift":
+  dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ProgressHUD.build/Objects-normal/arm64/ProgressHUD+ActivityIndicator.d"
+  diagnostics: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ProgressHUD.build/Objects-normal/arm64/ProgressHUD+ActivityIndicator.dia"
+  const-values: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ProgressHUD.build/Objects-normal/arm64/ProgressHUD+ActivityIndicator.swiftconstvalues"
+  swift-dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ProgressHUD.build/Objects-normal/arm64/ProgressHUD+ActivityIndicator.swiftdeps"
+  object: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ProgressHUD.build/Objects-normal/arm64/ProgressHUD+ActivityIndicator.o"
+"/Users/taodong/Desktop/ZenInAffirmations/Pods/ProgressHUD/ProgressHUD/Sources/ProgressHUD.swift":
+  const-values: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ProgressHUD.build/Objects-normal/arm64/ProgressHUD.swiftconstvalues"
+  swift-dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ProgressHUD.build/Objects-normal/arm64/ProgressHUD.swiftdeps"
+  diagnostics: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ProgressHUD.build/Objects-normal/arm64/ProgressHUD.dia"
+  dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ProgressHUD.build/Objects-normal/arm64/ProgressHUD.d"
+  object: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ProgressHUD.build/Objects-normal/arm64/ProgressHUD.o"
+"/Users/taodong/Desktop/ZenInAffirmations/Pods/ProgressHUD/ProgressHUD/Sources/Animations/ProgressHUD+BallVerticalBounce.swift":
+  dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ProgressHUD.build/Objects-normal/arm64/ProgressHUD+BallVerticalBounce.d"
+  swift-dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ProgressHUD.build/Objects-normal/arm64/ProgressHUD+BallVerticalBounce.swiftdeps"
+  diagnostics: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ProgressHUD.build/Objects-normal/arm64/ProgressHUD+BallVerticalBounce.dia"
+  object: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ProgressHUD.build/Objects-normal/arm64/ProgressHUD+BallVerticalBounce.o"
+  const-values: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ProgressHUD.build/Objects-normal/arm64/ProgressHUD+BallVerticalBounce.swiftconstvalues"

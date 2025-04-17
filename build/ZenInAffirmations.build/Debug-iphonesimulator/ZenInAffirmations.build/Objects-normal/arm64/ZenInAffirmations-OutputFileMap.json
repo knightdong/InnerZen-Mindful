@@ -1,0 +1,388 @@
+{
+  "" : {
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ZenInAffirmations-master.dia",
+    "emit-module-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ZenInAffirmations-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ZenInAffirmations-master-emit-module.dia",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ZenInAffirmations-master.swiftdeps"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/AppDelegate.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Controllers/AchievementViewController.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AchievementViewController.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AchievementViewController.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AchievementViewController.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AchievementViewController.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AchievementViewController.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AchievementViewController.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AchievementViewController.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AchievementViewController~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Controllers/AffirmationDetailViewController.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AffirmationDetailViewController.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AffirmationDetailViewController.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AffirmationDetailViewController.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AffirmationDetailViewController.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AffirmationDetailViewController.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AffirmationDetailViewController.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AffirmationDetailViewController.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AffirmationDetailViewController~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Controllers/BaseViewController.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/BaseViewController.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/BaseViewController.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/BaseViewController.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/BaseViewController.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/BaseViewController.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/BaseViewController.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/BaseViewController.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/BaseViewController~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Controllers/BreathingExerciseViewController.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/BreathingExerciseViewController.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/BreathingExerciseViewController.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/BreathingExerciseViewController.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/BreathingExerciseViewController.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/BreathingExerciseViewController.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/BreathingExerciseViewController.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/BreathingExerciseViewController.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/BreathingExerciseViewController~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Controllers/ContextualPracticeDetailViewController.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ContextualPracticeDetailViewController.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ContextualPracticeDetailViewController.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ContextualPracticeDetailViewController.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ContextualPracticeDetailViewController.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ContextualPracticeDetailViewController.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ContextualPracticeDetailViewController.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ContextualPracticeDetailViewController.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ContextualPracticeDetailViewController~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Controllers/ContextualPracticeViewController.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ContextualPracticeViewController.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ContextualPracticeViewController.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ContextualPracticeViewController.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ContextualPracticeViewController.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ContextualPracticeViewController.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ContextualPracticeViewController.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ContextualPracticeViewController.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ContextualPracticeViewController~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Controllers/FavoritesViewController.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/FavoritesViewController.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/FavoritesViewController.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/FavoritesViewController.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/FavoritesViewController.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/FavoritesViewController.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/FavoritesViewController.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/FavoritesViewController.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/FavoritesViewController~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Controllers/HomeViewController.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/HomeViewController.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/HomeViewController.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/HomeViewController.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/HomeViewController.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/HomeViewController.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/HomeViewController.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/HomeViewController.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/HomeViewController~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Controllers/MainTabBarController.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MainTabBarController.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MainTabBarController.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MainTabBarController.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MainTabBarController.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MainTabBarController.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MainTabBarController.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MainTabBarController.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MainTabBarController~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Controllers/MeditationGuideViewController.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MeditationGuideViewController.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MeditationGuideViewController.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MeditationGuideViewController.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MeditationGuideViewController.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MeditationGuideViewController.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MeditationGuideViewController.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MeditationGuideViewController.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MeditationGuideViewController~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Controllers/MindfulnessViewController.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MindfulnessViewController.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MindfulnessViewController.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MindfulnessViewController.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MindfulnessViewController.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MindfulnessViewController.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MindfulnessViewController.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MindfulnessViewController.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MindfulnessViewController~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Controllers/MoodTrackingViewController.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MoodTrackingViewController.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MoodTrackingViewController.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MoodTrackingViewController.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MoodTrackingViewController.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MoodTrackingViewController.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MoodTrackingViewController.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MoodTrackingViewController.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MoodTrackingViewController~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Controllers/ThemeSelectionViewController.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ThemeSelectionViewController.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ThemeSelectionViewController.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ThemeSelectionViewController.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ThemeSelectionViewController.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ThemeSelectionViewController.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ThemeSelectionViewController.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ThemeSelectionViewController.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ThemeSelectionViewController~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Models/Achievement.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/Achievement.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/Achievement.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/Achievement.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/Achievement.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/Achievement.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/Achievement.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/Achievement.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/Achievement~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Models/Affirmation.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/Affirmation.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/Affirmation.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/Affirmation.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/Affirmation.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/Affirmation.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/Affirmation.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/Affirmation.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/Affirmation~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Models/AffirmationCategory.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AffirmationCategory.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AffirmationCategory.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AffirmationCategory.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AffirmationCategory.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AffirmationCategory.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AffirmationCategory.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AffirmationCategory.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AffirmationCategory~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Models/CheckInManager.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/CheckInManager.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/CheckInManager.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/CheckInManager.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/CheckInManager.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/CheckInManager.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/CheckInManager.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/CheckInManager.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/CheckInManager~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Models/CheckInRecord.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/CheckInRecord.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/CheckInRecord.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/CheckInRecord.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/CheckInRecord.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/CheckInRecord.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/CheckInRecord.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/CheckInRecord.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/CheckInRecord~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Models/ContextualPractice.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ContextualPractice.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ContextualPractice.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ContextualPractice.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ContextualPractice.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ContextualPractice.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ContextualPractice.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ContextualPractice.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ContextualPractice~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Models/DailyActivityManager.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/DailyActivityManager.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/DailyActivityManager.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/DailyActivityManager.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/DailyActivityManager.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/DailyActivityManager.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/DailyActivityManager.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/DailyActivityManager.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/DailyActivityManager~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Models/FavoriteManager.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/FavoriteManager.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/FavoriteManager.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/FavoriteManager.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/FavoriteManager.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/FavoriteManager.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/FavoriteManager.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/FavoriteManager.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/FavoriteManager~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Models/ImageManager.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ImageManager.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ImageManager.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ImageManager.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ImageManager.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ImageManager.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ImageManager.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ImageManager.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ImageManager~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Models/MusicPlayerManager.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MusicPlayerManager.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MusicPlayerManager.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MusicPlayerManager.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MusicPlayerManager.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MusicPlayerManager.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MusicPlayerManager.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MusicPlayerManager.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MusicPlayerManager~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Models/ShareImageGenerator.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ShareImageGenerator.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ShareImageGenerator.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ShareImageGenerator.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ShareImageGenerator.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ShareImageGenerator.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ShareImageGenerator.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ShareImageGenerator.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ShareImageGenerator~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Models/Themes/ThemeSelectionDelegate.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ThemeSelectionDelegate.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ThemeSelectionDelegate.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ThemeSelectionDelegate.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ThemeSelectionDelegate.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ThemeSelectionDelegate.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ThemeSelectionDelegate.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ThemeSelectionDelegate.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ThemeSelectionDelegate~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Models/Themes/ThemeType.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ThemeType.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ThemeType.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ThemeType.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ThemeType.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ThemeType.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ThemeType.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ThemeType.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ThemeType~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Network/AffirmationDataManager.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AffirmationDataManager.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AffirmationDataManager.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AffirmationDataManager.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AffirmationDataManager.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AffirmationDataManager.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AffirmationDataManager.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AffirmationDataManager.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AffirmationDataManager~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Network/NetworkManager.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/NetworkManager.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/NetworkManager.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/NetworkManager.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/NetworkManager.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/NetworkManager.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/NetworkManager.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/NetworkManager.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/NetworkManager~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/SceneDelegate.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/ViewController.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ViewController.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ViewController.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ViewController.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ViewController.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ViewController.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ViewController.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ViewController.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ViewController~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Views/ContextualPracticeCell.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ContextualPracticeCell.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ContextualPracticeCell.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ContextualPracticeCell.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ContextualPracticeCell.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ContextualPracticeCell.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ContextualPracticeCell.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ContextualPracticeCell.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/ContextualPracticeCell~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Views/FloatingMusicPlayerView.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/FloatingMusicPlayerView.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/FloatingMusicPlayerView.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/FloatingMusicPlayerView.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/FloatingMusicPlayerView.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/FloatingMusicPlayerView.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/FloatingMusicPlayerView.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/FloatingMusicPlayerView.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/FloatingMusicPlayerView~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Views/GradientView/GradientView.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/GradientView.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/GradientView.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/GradientView.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/GradientView.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/GradientView.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/GradientView.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/GradientView.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/GradientView~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Views/GradientView/UIColor+Extention.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/UIColor+Extention.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/UIColor+Extention.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/UIColor+Extention.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/UIColor+Extention.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/UIColor+Extention.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/UIColor+Extention.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/UIColor+Extention.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/UIColor+Extention~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Views/GradientView/UIView+Extention.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/UIView+Extention.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/UIView+Extention.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/UIView+Extention.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/UIView+Extention.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/UIView+Extention.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/UIView+Extention.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/UIView+Extention.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/UIView+Extention~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Views/MusicPlayerWindow.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MusicPlayerWindow.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MusicPlayerWindow.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MusicPlayerWindow.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MusicPlayerWindow.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MusicPlayerWindow.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MusicPlayerWindow.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MusicPlayerWindow.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MusicPlayerWindow~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

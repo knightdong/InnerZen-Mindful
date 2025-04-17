@@ -1,0 +1,24 @@
+"/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Models/Achievement.swift":
+  diagnostics: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/Achievement.dia"
+  swift-dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/Achievement.swiftdeps"
+  const-values: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/Achievement.swiftconstvalues"
+  object: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/Achievement.o"
+  dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/Achievement.d"
+"/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Models/FavoriteManager.swift":
+  object: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/FavoriteManager.o"
+  swift-dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/FavoriteManager.swiftdeps"
+  diagnostics: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/FavoriteManager.dia"
+  const-values: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/FavoriteManager.swiftconstvalues"
+  dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/FavoriteManager.d"
+"/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Controllers/BaseViewController.swift":
+  object: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/BaseViewController.o"
+  dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/BaseViewController.d"
+  swift-dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/BaseViewController.swiftdeps"
+  diagnostics: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/BaseViewController.dia"
+  const-values: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/BaseViewController.swiftconstvalues"
+"/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Models/AffirmationCategory.swift":
+  diagnostics: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/AffirmationCategory.dia"
+  const-values: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/AffirmationCategory.swiftconstvalues"
+  object: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/AffirmationCategory.o"
+  dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/AffirmationCategory.d"
+  swift-dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/AffirmationCategory.swiftdeps"

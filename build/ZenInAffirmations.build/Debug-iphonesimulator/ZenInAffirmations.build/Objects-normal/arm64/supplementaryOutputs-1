@@ -1,0 +1,24 @@
+"/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Views/GradientView/UIColor+Extention.swift":
+  swift-dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/UIColor+Extention.swiftdeps"
+  const-values: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/UIColor+Extention.swiftconstvalues"
+  dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/UIColor+Extention.d"
+  diagnostics: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/UIColor+Extention.dia"
+  object: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/UIColor+Extention.o"
+"/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Network/AffirmationDataManager.swift":
+  diagnostics: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AffirmationDataManager.dia"
+  dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AffirmationDataManager.d"
+  swift-dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AffirmationDataManager.swiftdeps"
+  const-values: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AffirmationDataManager.swiftconstvalues"
+  object: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/AffirmationDataManager.o"
+"/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Controllers/MeditationGuideViewController.swift":
+  const-values: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MeditationGuideViewController.swiftconstvalues"
+  dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MeditationGuideViewController.d"
+  swift-dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MeditationGuideViewController.swiftdeps"
+  diagnostics: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MeditationGuideViewController.dia"
+  object: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MeditationGuideViewController.o"
+"/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Controllers/MoodTrackingViewController.swift":
+  const-values: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MoodTrackingViewController.swiftconstvalues"
+  swift-dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MoodTrackingViewController.swiftdeps"
+  dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MoodTrackingViewController.d"
+  object: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MoodTrackingViewController.o"
+  diagnostics: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/arm64/MoodTrackingViewController.dia"

@@ -1,0 +1,24 @@
+"/Users/taodong/Desktop/ZenInAffirmations/Pods/SnapKit/Sources/ConstraintMakerEditable.swift":
+  object: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerEditable.o"
+  swift-dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerEditable.swiftdeps"
+  diagnostics: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerEditable.dia"
+  dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerEditable.d"
+  const-values: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerEditable.swiftconstvalues"
+"/Users/taodong/Desktop/ZenInAffirmations/Pods/SnapKit/Sources/ConstraintMakerExtendable.swift":
+  dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerExtendable.d"
+  swift-dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerExtendable.swiftdeps"
+  const-values: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerExtendable.swiftconstvalues"
+  object: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerExtendable.o"
+  diagnostics: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerExtendable.dia"
+"/Users/taodong/Desktop/ZenInAffirmations/Pods/SnapKit/Sources/ConstraintMaker.swift":
+  const-values: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMaker.swiftconstvalues"
+  diagnostics: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMaker.dia"
+  swift-dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMaker.swiftdeps"
+  dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMaker.d"
+  object: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMaker.o"
+"/Users/taodong/Desktop/ZenInAffirmations/Pods/SnapKit/Sources/ConstraintMakerFinalizable.swift":
+  object: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerFinalizable.o"
+  dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerFinalizable.d"
+  swift-dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerFinalizable.swiftdeps"
+  diagnostics: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerFinalizable.dia"
+  const-values: "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerFinalizable.swiftconstvalues"

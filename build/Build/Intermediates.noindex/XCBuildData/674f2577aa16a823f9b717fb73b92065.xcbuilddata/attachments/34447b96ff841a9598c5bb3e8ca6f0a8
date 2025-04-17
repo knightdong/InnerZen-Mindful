@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON-master.dia",
+    "emit-module-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON-master-emit-module.dia",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON-master.swiftdeps"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/Pods/SwiftyJSON/Source/SwiftyJSON/SwiftyJSON.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON~partial.swiftmodule"
+  }
+}

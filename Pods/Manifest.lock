@@ -1,0 +1,65 @@
+PODS:
+  - Alamofire (5.10.2)
+  - IQKeyboardManager (6.5.19)
+  - JTAppleCalendar (8.0.5)
+  - KeychainAccess (4.2.2)
+  - Kingfisher (8.3.0)
+  - lottie-ios (4.5.1)
+  - MJRefresh (3.7.9)
+  - Moya (15.0.0):
+    - Moya/Core (= 15.0.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - ProgressHUD (14.1.1)
+  - SnapKit (5.7.1)
+  - SwiftyJSON (5.0.2)
+  - SwiftyRSA (1.7.0):
+    - SwiftyRSA/ObjC (= 1.7.0)
+  - SwiftyRSA/ObjC (1.7.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManager
+  - JTAppleCalendar
+  - KeychainAccess
+  - Kingfisher
+  - lottie-ios
+  - MJRefresh
+  - Moya (~> 15.0)
+  - ProgressHUD
+  - SnapKit
+  - SwiftyJSON
+  - SwiftyRSA
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManager
+    - JTAppleCalendar
+    - KeychainAccess
+    - Kingfisher
+    - lottie-ios
+    - MJRefresh
+    - Moya
+    - ProgressHUD
+    - SnapKit
+    - SwiftyJSON
+    - SwiftyRSA
+
+SPEC CHECKSUMS:
+  Alamofire: 7193b3b92c74a07f85569e1a6c4f4237291e7496
+  IQKeyboardManager: c8665b3396bd0b79402b4c573eac345a31c7d485
+  JTAppleCalendar: 16c6501b22cb27520372c28b0a2e0b12c8d0cd73
+  KeychainAccess: c0c4f7f38f6fc7bbe58f5702e25f7bd2f65abf51
+  Kingfisher: 00841bd9d22a65bb3731f41a1f7715e63788a7aa
+  lottie-ios: 248b380fa1b97d18e792c37d90da7ab2aa0d6562
+  MJRefresh: ff9e531227924c84ce459338414550a05d2aea78
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  ProgressHUD: abb9136ae23c85204236828562cb9a8ec98efb44
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+  SwiftyJSON: f5b1bf1cd8dd53cd25887ac0eabcfd92301c6a5a
+  SwiftyRSA: 8c6dd1ea7db1b8dc4fb517a202f88bb1354bc2c6
+
+PODFILE CHECKSUM: 410f679c58c0ee9a8c81d6e67fe812974ac89c0c
+
+COCOAPODS: 1.16.2

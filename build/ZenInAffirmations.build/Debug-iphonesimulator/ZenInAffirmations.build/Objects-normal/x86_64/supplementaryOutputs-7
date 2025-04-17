@@ -1,0 +1,24 @@
+"/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Models/Themes/ThemeSelectionDelegate.swift":
+  dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/ThemeSelectionDelegate.d"
+  object: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/ThemeSelectionDelegate.o"
+  swift-dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/ThemeSelectionDelegate.swiftdeps"
+  diagnostics: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/ThemeSelectionDelegate.dia"
+  const-values: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/ThemeSelectionDelegate.swiftconstvalues"
+"/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Views/ContextualPracticeCell.swift":
+  swift-dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/ContextualPracticeCell.swiftdeps"
+  dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/ContextualPracticeCell.d"
+  object: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/ContextualPracticeCell.o"
+  const-values: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/ContextualPracticeCell.swiftconstvalues"
+  diagnostics: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/ContextualPracticeCell.dia"
+"/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Models/MusicPlayerManager.swift":
+  swift-dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/MusicPlayerManager.swiftdeps"
+  diagnostics: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/MusicPlayerManager.dia"
+  const-values: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/MusicPlayerManager.swiftconstvalues"
+  dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/MusicPlayerManager.d"
+  object: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/MusicPlayerManager.o"
+"/Users/taodong/Desktop/ZenInAffirmations/ZenInAffirmations/Controllers/HomeViewController.swift":
+  object: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/HomeViewController.o"
+  const-values: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/HomeViewController.swiftconstvalues"
+  diagnostics: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/HomeViewController.dia"
+  swift-dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/HomeViewController.swiftdeps"
+  dependencies: "/Users/taodong/Desktop/ZenInAffirmations/build/ZenInAffirmations.build/Debug-iphonesimulator/ZenInAffirmations.build/Objects-normal/x86_64/HomeViewController.d"

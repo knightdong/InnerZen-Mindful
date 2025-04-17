@@ -1,0 +1,52 @@
+Target dependency graph (20 targets)
+Target 'ZenInAffirmations' in project 'ZenInAffirmations'
+➜ Implicit dependency on target 'Pods-ZenInAffirmations' in project 'Pods' via file 'Pods_ZenInAffirmations.framework' in build phase 'Link Binary'
+➜ Implicit dependency on target 'Alamofire' in project 'Pods' via options '-framework Alamofire' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'IQKeyboardManager' in project 'Pods' via options '-framework IQKeyboardManager' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'KeychainAccess' in project 'Pods' via options '-framework KeychainAccess' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'Kingfisher' in project 'Pods' via options '-framework Kingfisher' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'lottie-ios' in project 'Pods' via options '-framework Lottie' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'MJRefresh' in project 'Pods' via options '-framework MJRefresh' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'Moya' in project 'Pods' via options '-framework Moya' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'ProgressHUD' in project 'Pods' via options '-framework ProgressHUD' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'SnapKit' in project 'Pods' via options '-framework SnapKit' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'SwiftyJSON' in project 'Pods' via options '-framework SwiftyJSON' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'SwiftyRSA' in project 'Pods' via options '-framework SwiftyRSA' in build setting 'OTHER_LDFLAGS'
+Target 'Pods-ZenInAffirmations' in project 'Pods'
+➜ Explicit dependency on target 'Alamofire' in project 'Pods'
+➜ Explicit dependency on target 'IQKeyboardManager' in project 'Pods'
+➜ Explicit dependency on target 'KeychainAccess' in project 'Pods'
+➜ Explicit dependency on target 'Kingfisher' in project 'Pods'
+➜ Explicit dependency on target 'MJRefresh' in project 'Pods'
+➜ Explicit dependency on target 'Moya' in project 'Pods'
+➜ Explicit dependency on target 'ProgressHUD' in project 'Pods'
+➜ Explicit dependency on target 'SnapKit' in project 'Pods'
+➜ Explicit dependency on target 'SwiftyJSON' in project 'Pods'
+➜ Explicit dependency on target 'SwiftyRSA' in project 'Pods'
+➜ Explicit dependency on target 'lottie-ios' in project 'Pods'
+Target 'lottie-ios' in project 'Pods'
+➜ Explicit dependency on target 'lottie-ios-LottiePrivacyInfo' in project 'Pods'
+Target 'lottie-ios-LottiePrivacyInfo' in project 'Pods' (no dependencies)
+Target 'SwiftyRSA' in project 'Pods' (no dependencies)
+Target 'SwiftyJSON' in project 'Pods'
+➜ Explicit dependency on target 'SwiftyJSON-SwiftyJSON' in project 'Pods'
+Target 'SwiftyJSON-SwiftyJSON' in project 'Pods' (no dependencies)
+Target 'SnapKit' in project 'Pods'
+➜ Explicit dependency on target 'SnapKit-SnapKit_Privacy' in project 'Pods'
+Target 'SnapKit-SnapKit_Privacy' in project 'Pods' (no dependencies)
+Target 'ProgressHUD' in project 'Pods' (no dependencies)
+Target 'Moya' in project 'Pods'
+➜ Explicit dependency on target 'Alamofire' in project 'Pods'
+Target 'MJRefresh' in project 'Pods'
+➜ Explicit dependency on target 'MJRefresh-MJRefresh.Privacy' in project 'Pods'
+Target 'MJRefresh-MJRefresh.Privacy' in project 'Pods' (no dependencies)
+Target 'Kingfisher' in project 'Pods'
+➜ Explicit dependency on target 'Kingfisher-Kingfisher' in project 'Pods'
+Target 'Kingfisher-Kingfisher' in project 'Pods' (no dependencies)
+Target 'KeychainAccess' in project 'Pods' (no dependencies)
+Target 'IQKeyboardManager' in project 'Pods'
+➜ Explicit dependency on target 'IQKeyboardManager-IQKeyboardManager' in project 'Pods'
+Target 'IQKeyboardManager-IQKeyboardManager' in project 'Pods' (no dependencies)
+Target 'Alamofire' in project 'Pods'
+➜ Explicit dependency on target 'Alamofire-Alamofire' in project 'Pods'
+Target 'Alamofire-Alamofire' in project 'Pods' (no dependencies)

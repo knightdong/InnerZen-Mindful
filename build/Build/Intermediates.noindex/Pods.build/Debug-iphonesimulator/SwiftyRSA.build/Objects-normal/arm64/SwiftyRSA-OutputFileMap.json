@@ -1,0 +1,128 @@
+{
+  "" : {
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/SwiftyRSA-master.dia",
+    "emit-module-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/SwiftyRSA-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/SwiftyRSA-master-emit-module.dia",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/SwiftyRSA-master.swiftdeps"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/Pods/SwiftyRSA/Source/Asn1Parser.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/Asn1Parser.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/Asn1Parser.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/Asn1Parser.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/Asn1Parser.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/Asn1Parser.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/Asn1Parser.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/Asn1Parser.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/Asn1Parser~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/Pods/SwiftyRSA/Source/ClearMessage.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/ClearMessage.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/ClearMessage.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/ClearMessage.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/ClearMessage.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/ClearMessage.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/ClearMessage.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/ClearMessage.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/ClearMessage~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/Pods/SwiftyRSA/Source/EncryptedMessage.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/EncryptedMessage.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/EncryptedMessage.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/EncryptedMessage.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/EncryptedMessage.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/EncryptedMessage.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/EncryptedMessage.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/EncryptedMessage.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/EncryptedMessage~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/Pods/SwiftyRSA/Source/Key.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/Key.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/Key.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/Key.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/Key.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/Key.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/Key.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/Key.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/Key~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/Pods/SwiftyRSA/Source/Message.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/Message.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/Message.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/Message.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/Message.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/Message.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/Message.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/Message.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/Message~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/Pods/SwiftyRSA/Source/PrivateKey.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/PrivateKey.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/PrivateKey.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/PrivateKey.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/PrivateKey.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/PrivateKey.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/PrivateKey.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/PrivateKey.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/PrivateKey~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/Pods/SwiftyRSA/Source/PublicKey.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/PublicKey.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/PublicKey.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/PublicKey.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/PublicKey.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/PublicKey.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/PublicKey.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/PublicKey.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/PublicKey~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/Pods/SwiftyRSA/Source/Signature.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/Signature.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/Signature.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/Signature.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/Signature.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/Signature.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/Signature.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/Signature.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/Signature~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/Pods/SwiftyRSA/Source/SwiftyRSA+ObjC.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/SwiftyRSA+ObjC.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/SwiftyRSA+ObjC.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/SwiftyRSA+ObjC.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/SwiftyRSA+ObjC.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/SwiftyRSA+ObjC.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/SwiftyRSA+ObjC.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/SwiftyRSA+ObjC.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/SwiftyRSA+ObjC~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/Pods/SwiftyRSA/Source/SwiftyRSA.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/SwiftyRSA.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/SwiftyRSA.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/SwiftyRSA.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/SwiftyRSA.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/SwiftyRSA.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/SwiftyRSA.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/SwiftyRSA.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/SwiftyRSA~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/Pods/SwiftyRSA/Source/SwiftyRSAError.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/SwiftyRSAError.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/SwiftyRSAError.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/SwiftyRSAError.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/SwiftyRSAError.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/SwiftyRSAError.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/SwiftyRSAError.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/SwiftyRSAError.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/SwiftyRSAError~partial.swiftmodule"
+  },
+  "/Users/taodong/Desktop/ZenInAffirmations/Pods/SwiftyRSA/Source/X509Certificate.swift" : {
+    "const-values" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/X509Certificate.swiftconstvalues",
+    "dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/X509Certificate.d",
+    "diagnostics" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/X509Certificate.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/X509Certificate.o",
+    "llvm-bc" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/X509Certificate.bc",
+    "object" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/X509Certificate.o",
+    "swift-dependencies" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/X509Certificate.swiftdeps",
+    "swiftmodule" : "/Users/taodong/Desktop/ZenInAffirmations/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyRSA.build/Objects-normal/arm64/X509Certificate~partial.swiftmodule"
+  }
+}

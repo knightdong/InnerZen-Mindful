@@ -1,0 +1,4 @@
+
+module SwiftyRSA.__Swift {
+  exclude header "SwiftyRSA-Swift.h"
+}

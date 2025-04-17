@@ -1,0 +1,6 @@
+framework module Pods_ZenInAffirmations {
+  umbrella header "Pods-ZenInAffirmations-umbrella.h"
+
+  export *
+  module * { export * }
+}
