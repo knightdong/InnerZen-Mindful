@@ -1,4 +1,0 @@
-
-module ProgressHUD.__Swift {
-  exclude header "ProgressHUD-Swift.h"
-}

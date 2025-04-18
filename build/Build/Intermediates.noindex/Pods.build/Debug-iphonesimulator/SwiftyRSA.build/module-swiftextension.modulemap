@@ -1,5 +1,0 @@
-
-module SwiftyRSA.Swift {
-  header "SwiftyRSA-Swift.h"
-  requires objc
-}

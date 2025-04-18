@@ -1,5 +1,0 @@
-
-module KeychainAccess.Swift {
-  header "KeychainAccess-Swift.h"
-  requires objc
-}

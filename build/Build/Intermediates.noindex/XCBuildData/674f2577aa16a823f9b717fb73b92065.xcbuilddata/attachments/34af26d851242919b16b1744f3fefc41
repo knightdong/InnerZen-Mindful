@@ -1,4 +1,0 @@
-
-module Moya.__Swift {
-  exclude header "Moya-Swift.h"
-}

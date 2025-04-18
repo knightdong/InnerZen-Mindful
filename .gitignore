@@ -1,0 +1,25 @@
+# Xcode
+ZenInAffirmations.xcodeproj/
+ZenInAffirmations.xcworkspace/
+ZenInAffirmations/
+Pods/
+build/
+*.pbxproj
+*.xcworkspacedata
+*.xcuserstate
+*.xcscheme
+*.plist
+*.xcconfig
+*.storyboard
+*.xib
+*.h
+*.m
+*.mm
+*.swift
+
+# CocoaPods
+Podfile
+Podfile.lock
+
+# Misc
+*.DS_Store 

@@ -1,5 +1,0 @@
-
-module ProgressHUD.Swift {
-  header "ProgressHUD-Swift.h"
-  requires objc
-}
