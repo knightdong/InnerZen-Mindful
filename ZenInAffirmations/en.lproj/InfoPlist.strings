@@ -8,5 +8,5 @@
 "CFBundleDisplayName" = "InnerZen Mindful";
 "NSCameraUsageDescription" = "This app requires access to the camera to take photos and upload your profile picture.";
 "NSPhotoLibraryAddUsageDescription" = "This app requires access to your photo library to select and upload a profile picture.";
-"NSPhotoLibraryUsageDescription" = "This app requires access to your photo library to select and upload a profile picture.";
+"NSPhotoLibraryUsageDescription" = "This app requires access to your photo library to save your customized picture.";
 "NSMicrophoneUsageDescription" = "Use the microphone to record and read aloud your own affirmations.";
